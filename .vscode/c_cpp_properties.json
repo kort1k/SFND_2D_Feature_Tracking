@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "MacOSX",
+            "includePath": [
+                "${workspaceFolder}/src/**",
+                "/usr/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
